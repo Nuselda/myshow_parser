@@ -88,4 +88,4 @@ df = pd.DataFrame(user_rates)
 df.to_excel('user_rates.xlsx')
 ```
 * В результате вы обеспечили не только извлечение данных но и представление их в удобной форме для дальнейшего взаимодействия с ними.:
-[Таблица Excel](https://docs.google.com/spreadsheets/d/19MlS2l9AoUtVMqrlbLLCB61lTRI27ASFKBgx_lam768/edit?usp=sharing))
+[Таблица Excel](https://docs.google.com/spreadsheets/d/19MlS2l9AoUtVMqrlbLLCB61lTRI27ASFKBgx_lam768/edit?usp=sharing)
